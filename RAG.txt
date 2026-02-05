@@ -1,0 +1,1 @@
+RAG (Retrieval-Augmented Generation) is a method where an AI model first retrieves relevant information from external sources (like documents or a database) and then **uses it to generate its answer. It helps responses be more accurate and grounded because they’re based on the retrieved text rather than only the model’s memory.
