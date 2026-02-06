@@ -4,8 +4,6 @@
 # Build a RAG API with FastAPI
 
 
-**Author:** Asobo Penn  
-**Email:** lc22-0676@lclark.edu
 
 ---
 
