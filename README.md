@@ -11,8 +11,6 @@
 
 ---
 
-## Introducing Today's Project!
-
 In this project, I will be learning more about working with APIs and LLMs
 
 ### Key services and concepts
